@@ -1,3 +1,4 @@
+/* Header 1 styles */
 h1 {
   font-size: 52px;
   color: grey;
@@ -6,6 +7,7 @@ h1 {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
+/* Header 2 styles */
 h2 {
   font-size: 24px;
   color: grey;
@@ -14,6 +16,7 @@ h2 {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
 }
+/* Setting up centering to auto margins */
 .center {
   display: block;
   margin-left: auto;
@@ -21,6 +24,7 @@ h2 {
   width: 50%;
   height: 50%;
 }
+/* Styled links */
 a:link    { color: blue;  } 
 a:visited { color: blueviolet;   }
 a:hover   { color: lightskyblue; }
