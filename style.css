@@ -21,3 +21,7 @@ h2 {
   width: 50%;
   height: 50%;
 }
+a:link    { color: blue;  } 
+a:visited { color: blueviolet;   }
+a:hover   { color: lightskyblue; }
+a:active  { color: #e085ff;  }
